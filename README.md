@@ -1,1 +1,1 @@
-# test_cloudera_to_git
+# cypress-cucumber-boilerplate-for-e2e-testing
